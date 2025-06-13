@@ -1,1 +1,2 @@
-# AI
+# AI\
+This repository reflects my journey of exploring Generative AI, where I experiment with various models and tools to understand their potential in real-world applications. From fine-tuning models to fit different hardware setups to applying LLMs for financial analysis and company insights, each project is a step towards bridging AI with finance. I'm continuously learning how GenAI can transform how we interpret data, automate reports, and support smarter decision-making in the financial space.
